@@ -1,6 +1,6 @@
 provider "google" {
  project = "prod-bayer-360512"
- credentials = "var.sa-account"
+ #credentials = "var.sa-account"
 
 
 }
